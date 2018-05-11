@@ -1,0 +1,13 @@
+gcr.io/spinnaker-marketplace/clouddriver:3.1.0-20180507112917
+gcr.io/spinnaker-marketplace/deck:2.2.1-20180507112917
+gcr.io/spinnaker-marketplace/echo:0.9.0-20180406152754
+gcr.io/spinnaker-marketplace/fiat:0.6.0-20180404132505
+gcr.io/spinnaker-marketplace/front50:0.10.0-20180415022806
+gcr.io/spinnaker-marketplace/gate:0.11.0-20180404132505
+gcr.io/spinnaker-marketplace/igor:0.10.0-20180424091600
+gcr.io/spinnaker-marketplace/kayenta:0.1.0-20180420132832
+gcr.io/spinnaker-marketplace/monitoring-daemon:0.6.1-20180430115646
+gcr.io/spinnaker-marketplace/monitoring-third-party:0.6.1-20180430115646
+gcr.io/spinnaker-marketplace/orca:0.11.1-20180430163121
+gcr.io/spinnaker-marketplace/rosco:0.6.0-20180414022806
+gcr.io/spinnaker-marketplace/spinnaker:0.19.0-20180430115646
