@@ -9,3 +9,4 @@ gcr.io/spinnaker-marketplace/kayenta:0.1.0-20180420132832
 gcr.io/spinnaker-marketplace/monitoring-daemon:0.6.1-20180430115646
 gcr.io/spinnaker-marketplace/orca:0.11.1-20180430163121
 gcr.io/spinnaker-marketplace/rosco:0.6.0-20180414022806
+gcr.io/kubernetes-spinnaker/redis-cluster:v2
